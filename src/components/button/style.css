@@ -1,0 +1,18 @@
+.button-container {
+    border: none;
+    border-radius: 50px;
+    width: 150px;
+    padding: 15px;
+    background-color: var(--button);
+    color: var(--text-01);
+    cursor: pointer;
+}
+
+.button-container:hover {
+    background-color: var(--button-hover);
+}
+
+.button-name {
+    font-size: 20px;
+    margin: 0;
+}

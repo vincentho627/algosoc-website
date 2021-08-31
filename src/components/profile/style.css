@@ -1,0 +1,17 @@
+.profile-pic {
+    width: 200px;
+    margin-bottom: 15px;
+}
+
+.profile-container {
+    text-align: center;
+}
+
+.profile-name {
+    color: var(--text-01);
+}
+
+.position {
+    color: var(--title-03);
+    font-size: 18px;
+}

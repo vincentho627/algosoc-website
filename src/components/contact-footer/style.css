@@ -1,0 +1,37 @@
+.contact-footer {
+    padding: 15px;
+    background-color: var(--background-02);
+}
+
+.contact-details {
+    background-color: var(--background-03);
+    padding: 60px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-icon {
+    width: 50px;
+    margin-bottom: 10px;
+}
+
+.contact-method {
+    color: var(--title-01);
+}
+
+.contact-link {
+    margin-top: 10px;
+    color: var(--title-01);
+}
+
+.contact-link:hover, .contact-link:active {
+    color: var(--title-03);
+}
+
+@media (max-width: 768px) {
+    .contact-icon {
+        width: 30px;
+    }
+}

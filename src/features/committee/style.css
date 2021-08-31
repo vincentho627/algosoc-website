@@ -1,0 +1,29 @@
+#committee {
+    background-color: var(--background-02);
+    padding: 0 50px;
+}
+
+.first-row {
+    position: relative;
+    /*right: 5%;*/
+}
+
+.committee-container .col {
+    margin-bottom: 4rem;
+}
+
+.second-row {
+    position: relative;
+    padding: 0 5rem;
+    /*left: 5%;*/
+}
+
+.committee-container {
+    padding: 25px 50px;
+}
+
+@media (max-width: 768px) {
+    .second-row {
+        padding: 0;
+    }
+}

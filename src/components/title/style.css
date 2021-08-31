@@ -1,0 +1,29 @@
+.title-container {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-flow: column;
+    margin-bottom: 50px;
+}
+
+.title-name {
+    color: var(--title-01);
+}
+
+.title-name-white {
+    color: var(--title-02);
+}
+
+.title-underscore {
+    margin: 0;
+    width: 100px;
+    opacity: 1;
+    height: 4px !important;
+    background-color: var(--underscore-01);
+}
+
+@media (max-width: 768px) {
+    .title-container {
+        margin-bottom: 20px;
+    }
+}

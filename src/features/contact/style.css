@@ -1,0 +1,25 @@
+.contact-container {
+    padding: 0 40px;
+}
+
+#contact {
+    margin-bottom: 10rem;
+}
+
+.contacts-container {
+    padding-top: 20px;
+}
+
+.contact-button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+@media (max-width: 768px) {
+    #contact {
+        margin-top: 10rem;
+    }
+
+}

@@ -1,0 +1,54 @@
+.company-container {
+    display: flex;
+    gap: 25px;
+    flex-flow: column;
+    text-align: center;
+    align-items: center;
+}
+
+.company-image {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    filter: drop-shadow(0 15px 5px var(--dropshadow));
+    cursor: pointer;
+}
+
+.company-name {
+    color: var(--text-02);
+}
+
+.company-modal {
+    position: fixed;
+    height: 70vh;
+    width: 85vh;
+    background-color: var(--background-03);
+    box-shadow: 0 5px 50px -4px #000;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 999;
+}
+
+.modal-close {
+    cursor: pointer;
+}
+
+.modal-header {
+    border: none;
+}
+
+.modal-title {
+    font-size: 20px;
+    color: var(--title-01);
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.modal-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-02);
+}

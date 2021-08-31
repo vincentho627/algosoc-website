@@ -1,0 +1,48 @@
+@value basePrimary #5A3A9B;
+
+@value basePrimaryDark #311B64;
+
+@value baseSecondaryLight #E554D5;
+
+@value baseSecondaryDark #883AD1;
+
+@value baseTertiary #A038DB;
+
+@value baseTertiaryDark #4E3285;
+
+@value background01 basePrimary;
+
+@value background02 basePrimaryDark;
+
+@value underscore01 baseSecondaryLight;
+
+@value underscore02 #fff;
+
+@value underscore03 baseSecondaryDark;
+
+@value text01 #fff;
+
+@value text02 baseTertiaryDark;
+
+@value title01 basePrimary;
+
+@value title02 #fff;
+
+@value button #FFBE00;
+
+:root {
+    --background-01: #5A3A9B;
+    --background-02: #311B64;
+    --background-03: #fff;
+    --underscore-01: #E554D5;
+    --underscore-02: #fff;
+    --underscore-03: #883AD1;
+    --text-01: #fff;
+    --text-02: #4E3285;
+    --title-01: #5A3A9B;
+    --title-02: #fff;
+    --title-03: #A038DB;
+    --button: #FFBE00;
+    --button-hover: #cc9800;
+    --dropshadow: #D3D3D3;
+}

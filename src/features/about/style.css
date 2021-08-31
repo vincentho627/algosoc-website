@@ -1,0 +1,35 @@
+.logo {
+    height: 250px;
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+}
+
+.about-content {
+    display: flex;
+    align-items: center;
+    color: var(--text-02);
+    line-height: 2;
+}
+
+.about-container {
+    padding: 30px 50px !important;
+    margin-bottom: 40px;
+}
+
+#about-us {
+    margin-bottom: 10rem;
+}
+
+@media (max-width: 768px) {
+    #about-us {
+        margin-top: 10rem;
+    }
+
+    .logo {
+        margin-top: 20px;
+        height: 200px;
+    }
+}

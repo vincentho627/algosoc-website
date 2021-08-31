@@ -14,7 +14,6 @@
     display: flex;
     flex-flow: column;
     justify-content: center;
-    width: 100%;
 }
 
 .society-title {
@@ -51,6 +50,7 @@
     justify-content: center;
 }
 
+
 @media (max-width: 768px) {
     .header {
         max-height: none;
@@ -63,6 +63,7 @@
     .society-title-container {
         align-items: center;
         margin-top: 5rem !important;
+        width: 100%;
     }
 
     .society-image-container {

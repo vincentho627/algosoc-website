@@ -26,4 +26,8 @@
     .second-row {
         padding: 0;
     }
+
+    .committee-container {
+        padding: 25px;
+    }
 }

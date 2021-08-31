@@ -21,7 +21,7 @@
 .company-modal {
     position: fixed;
     height: 70vh;
-    width: 85vh;
+    width: 85vw;
     background-color: var(--background-03);
     box-shadow: 0 5px 50px -4px #000;
     top: 50%;

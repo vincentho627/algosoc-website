@@ -81,7 +81,7 @@ function Committee() {
                     {generateRows()}
                 </div>
             </section>
-            <img src={process.env.PUBLIC_URL + '/img/wave-03.svg'} alt={'committee-wave'}/>
+            <img className={'committee-wave'} src={process.env.PUBLIC_URL + '/img/wave-03.svg'} alt={'committee-wave'}/>
         </>
 
     )

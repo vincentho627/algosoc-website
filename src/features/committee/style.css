@@ -22,6 +22,11 @@
     padding: 25px 50px;
 }
 
+.committee-wave {
+    width: 100%;
+    margin-top: -5px;
+}
+
 @media (max-width: 768px) {
     .second-row {
         padding: 0;

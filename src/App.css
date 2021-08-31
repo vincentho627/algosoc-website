@@ -4,3 +4,7 @@ section:before {
   height: 100px;
   margin: -150px 0 0;
 }
+
+html, body {
+  overflow-x: hidden;
+}

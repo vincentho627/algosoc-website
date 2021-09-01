@@ -43,6 +43,7 @@
 
 .header-image {
     width: 80%;
+    height: auto;
 }
 
 .society-image-container {
@@ -75,6 +76,7 @@
 
     .header-image {
         margin-top: 20px;
+        height: auto;
         width: 60%;
     }
 

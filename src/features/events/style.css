@@ -10,9 +10,9 @@
     margin: -50px 0 0;
 }
 
-
 .events-image {
     width: 70%;
+    height: auto;
 }
 
 .events-wave {

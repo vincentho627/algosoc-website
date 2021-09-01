@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/algosoc-website/static/css/main.0b2ceb05.chunk.css",
+    "main.css": "/algosoc-website/static/css/main.4af8c4f8.chunk.css",
     "main.js": "/algosoc-website/static/js/main.57edc8f2.chunk.js",
     "main.js.map": "/algosoc-website/static/js/main.57edc8f2.chunk.js.map",
     "runtime-main.js": "/algosoc-website/static/js/runtime-main.e219da08.js",
@@ -12,14 +12,14 @@
     "static/js/3.6f49ebdc.chunk.js.map": "/algosoc-website/static/js/3.6f49ebdc.chunk.js.map",
     "index.html": "/algosoc-website/index.html",
     "static/css/2.818011ed.chunk.css.map": "/algosoc-website/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.0b2ceb05.chunk.css.map": "/algosoc-website/static/css/main.0b2ceb05.chunk.css.map",
+    "static/css/main.4af8c4f8.chunk.css.map": "/algosoc-website/static/css/main.4af8c4f8.chunk.css.map",
     "static/js/2.568b30ae.chunk.js.LICENSE.txt": "/algosoc-website/static/js/2.568b30ae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e219da08.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.568b30ae.chunk.js",
-    "static/css/main.0b2ceb05.chunk.css",
+    "static/css/main.4af8c4f8.chunk.css",
     "static/js/main.57edc8f2.chunk.js"
   ]
 }

@@ -1,5 +1,4 @@
 .header {
-    max-height: 60vh;
     background-color: var(--background-01);
     padding-top: 20px;
 }
@@ -43,6 +42,7 @@
 
 .header-image {
     width: 80%;
+    height: auto;
 }
 
 .society-image-container {
@@ -75,6 +75,7 @@
 
     .header-image {
         margin-top: 20px;
+        height: auto;
         width: 60%;
     }
 

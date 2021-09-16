@@ -18,6 +18,11 @@ function Committee() {
             position: 'TECHNOLOGY'
         },
         {
+            src: process.env.PUBLIC_URL + '/img/manuel.png',
+            name: 'Manuel Coelho',
+            position: 'TREASURER'
+        },
+        {
             src: process.env.PUBLIC_URL + '/img/tser.png',
             name: 'Tser Siew',
             position: 'HEAD OF EVENTS'

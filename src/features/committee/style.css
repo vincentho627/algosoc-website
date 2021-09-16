@@ -5,7 +5,7 @@
 
 .first-row {
     position: relative;
-    /*right: 5%;*/
+    right: 5%;
 }
 
 .committee-container .col {
@@ -14,8 +14,8 @@
 
 .second-row {
     position: relative;
-    padding: 0 5rem;
-    /*left: 5%;*/
+    /*padding: 0 5rem;*/
+    left: 5%;
 }
 
 .committee-container {
@@ -25,6 +25,16 @@
 .committee-wave {
     width: 105%;
     margin-top: -5px;
+}
+
+@media (max-width: 1040px) {
+    .first-row {
+        left: 0;
+    }
+
+    .second-row {
+        left: 0;
+    }
 }
 
 @media (max-width: 768px) {

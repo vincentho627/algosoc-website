@@ -1,8 +1,8 @@
 {
   "name": "algosoc-website",
   "version": "0.1.0",
-  "homepage": "https://vinceentho627.github.io/algosoc-website",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",

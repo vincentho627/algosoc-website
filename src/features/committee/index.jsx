@@ -8,8 +8,8 @@ function Committee() {
 
     const committeeList = [
         {
-            src: process.env.PUBLIC_URL + '/img/archie.png',
-            name: 'Archibald Crichton',
+            src: process.env.PUBLIC_URL + '/img/dan.png',
+            name: 'Dan Everett',
             position: 'PRESIDENT'
         },
         {
@@ -18,23 +18,23 @@ function Committee() {
             position: 'TECHNOLOGY'
         },
         {
-            src: process.env.PUBLIC_URL + '/img/manuel.png',
-            name: 'Manuel Coelho',
+            src: process.env.PUBLIC_URL + '/img/hamzah.png',
+            name: 'Hamzah Hashim',
             position: 'TREASURER'
         },
         {
-            src: process.env.PUBLIC_URL + '/img/tser.png',
-            name: 'Tser Siew',
+            src: process.env.PUBLIC_URL + '/img/krish.png',
+            name: 'Krish Nigam',
             position: 'HEAD OF EVENTS'
         },
         {
-            src: process.env.PUBLIC_URL + '/img/hubert.png',
-            name: 'Hubert Sumarno',
+            src: process.env.PUBLIC_URL + '/img/corrie.png',
+            name: 'Corrie Clark',
             position: 'SECRETARY'
         },
         {
-            src: process.env.PUBLIC_URL + '/img/thomas.png',
-            name: 'Thomas Wong',
+            src: process.env.PUBLIC_URL + '/img/aadhithya.png',
+            name: 'Aadhithya Naarayan',
             position: 'HEAD OF TRADING'
         },
     ]

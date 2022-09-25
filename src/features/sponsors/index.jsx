@@ -10,15 +10,9 @@ function Sponsors() {
         <section id={'sponsors'}>
             <Title name={'SPONSORS'} />
             <Container className={'sponsors-container'}>
-                <Row md={4} xs={1}>
+                <Row md={2} xs={1}>
                     <Col>
-                        <CompanyProfile src={process.env.PUBLIC_URL + '/img/imc.jpg'} name={'IMC TRADING'}/>
-                    </Col>
-                    <Col>
-                        <CompanyProfile src={process.env.PUBLIC_URL + '/img/imc.jpg'} name={'IMC TRADING'}/>
-                    </Col>
-                    <Col>
-                        <CompanyProfile src={process.env.PUBLIC_URL + '/img/imc.jpg'} name={'IMC TRADING'}/>
+                        <CompanyProfile src={process.env.PUBLIC_URL + '/img/flow-trader.png'} name={'Flow Trader'}/>
                     </Col>
                     <Col>
                         <CompanyProfile src={process.env.PUBLIC_URL + '/img/imc.jpg'} name={'IMC TRADING'}/>

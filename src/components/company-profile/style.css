@@ -11,7 +11,7 @@
     width: 150px;
     height: 150px;
     filter: drop-shadow(0 15px 5px var(--dropshadow));
-    cursor: pointer;
+    /*cursor: pointer;*/
     margin-bottom: 10px;
 }
 

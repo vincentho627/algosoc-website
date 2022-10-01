@@ -20,17 +20,16 @@ function Events() {
                         <Col className={'events-info'}>
                             <div>
                                 <h4 className={'events-title'}>
-                                    ALGOTHON 2020
+                                    Introduction to Algorithmic Trading
                                 </h4>
                             </div>
                             <p className={'events-date'}>
-                                April 19 - 20
+                                Oct 2022 - Dec 2022
                             </p>
                             <p className={'event-info'}>
-                                Algothon Virtual in partnership with Aspect is the third annual Algothon organised by
-                                the Imperial College Algorithmic Trading Society. We’re excited to bring you 48 hours of
-                                intense hacking, bringing the brightest minds together to produce incredible new
-                                financial technology
+                                This course, delivered by our Head of Trading introduces you to algorithmic trading by covering various topics including
+                                Time Series Analysis using momentum and mean reversion strategies, Machine Learning Techniques and Portfolio Construction
+                                and Optimisation. 
                             </p>
                             <br/>
                             <Button onClick={() => {}} name={'MORE INFO'}/>
